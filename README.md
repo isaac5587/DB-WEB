@@ -1,3 +1,3 @@
 # DB-WEB ✅
 
-Project Folder Sample page to practice JS.
+Project Folder sample page to practice JS.
